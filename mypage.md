@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Here is my added page.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
