@@ -3,6 +3,8 @@ title: Silin's ADA Test Website
 description: Silin's test website for ADA
 show_downloads: True
 navigation:
+  - title: Home
+    url: /
   - title: Example
     url: example
   - title: MyPage
